@@ -20,7 +20,7 @@ pluginBundle {
 gradlePlugin {
     plugins {
         create("elementaTools") {
-            id = "dev.falsehonesty.elementatools"
+            id = "dev.falsehonesty.elementa-tools"
             displayName = "Elementa Tools Plugin"
             description = "Kotlin Compiler Plugin to enhance your usage of Elementa"
             implementationClass = "dev.falsehonesty.elementatools.ElementaToolsGradlePlugin"

@@ -32,7 +32,7 @@ Builds of the Gradle plugin are available through the
 ```kotlin
 plugins {
   kotlin("jvm") version "1.4.0"
-  id("dev.falsehonesty.elementatools") version "0.1.0"
+  id("dev.falsehonesty.elementa-tools") version "0.1.0"
 }
 ```
 
@@ -49,4 +49,4 @@ compileKotlin {
 }
 ```
 
-[elementa-tools-gradle]: https://plugins.gradle.org/plugin/dev.falsehonesty.elementatools
+[elementa-tools-gradle]: https://plugins.gradle.org/plugin/dev.falsehonesty.elementa-tools
